@@ -1,0 +1,38 @@
+*{
+    background-color: black;
+}
+
+
+.heading{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+
+.ingredients{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: white;
+}
+.steps{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: white;
+    text-align: justify;
+    
+
+}
+.image_ingredients{
+    width: 450px;
+    height: 275px;
+    padding-left: 600px;
+    margin-bottom: -200px;
+    margin-top: -50px;
+}
+.cakefinal{
+    width: 450px;
+    height: 275px;
+    display: flex;
+    float: right;
+    padding-right:15px ;
+}
